@@ -1,4 +1,4 @@
-# Trabalho G2 - Análise Estatística e Modelo Preditivo com Aplicação Web em Shiny
+# Análise Estatística e Modelo Preditivo com Aplicação Web em Shiny
 
 #### Este projeto foi desenvolvido como parte da avaliação da disciplina Tópicos Especiais II, ministrada pelo professor Thiago Silva Souza, no curso de Sistemas de Informação da Universidade La Salle do Rio de Janeiro.
 
