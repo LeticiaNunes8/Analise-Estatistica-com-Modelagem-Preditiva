@@ -9,7 +9,7 @@
 - `README.md`: instruções e informações do projeto.
 
 ## Acesso à aplicação
-🔗 [Link do app publicado no shinyapps.io](https://leticianunes.shinyapps.io/minha_aplicacao/)
+🔗 [Link do app publicado no shinyapps.io](https://leticianunes.shinyapps.io/projeto_g2/)
 
 ## Como rodar localmente
 
